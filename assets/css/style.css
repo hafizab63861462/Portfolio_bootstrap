@@ -1109,3 +1109,11 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.badge-skills {
+  background: #149ddd;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
